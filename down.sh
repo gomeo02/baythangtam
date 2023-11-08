@@ -5,3 +5,4 @@ wget ${PRESIGNED_URL/'*'/"USE_POLICY.md"} -O ${TARGET_FOLDER}"/USE_POLICY.md"
 
 for m in ${MODEL_SIZE//,/ }
 }
+#update done
